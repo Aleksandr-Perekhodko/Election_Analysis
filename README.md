@@ -28,6 +28,7 @@ The purpose of the election analysis is to show how python can be used with prov
 > - Winning Vote Count: 272,892
 > - Winning Percentage: 73.8%
 
+<img width="255" alt="1" src="https://user-images.githubusercontent.com/97326526/159141396-bf2344f8-29aa-433d-a216-70d8b9918e5c.PNG">
 
 
 ## Summary
