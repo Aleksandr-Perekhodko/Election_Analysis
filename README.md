@@ -29,6 +29,5 @@ The purpose of the election analysis is to show how python can be used with prov
 > - Winning Percentage: 73.8%
 
 
-[election_analysis.txt](https://github.com/PreMeer/Election_Analysis/files/8310273/election_analysis.txt)
 
 ## Summary
