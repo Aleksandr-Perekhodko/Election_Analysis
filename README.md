@@ -1,2 +1,7 @@
 # Election_Analysis
-Python Code for project on Election Analysis
+
+## Overview of Project
+The purpose of the election analysis is to show how python can be used with provided data to create a text file and used data pulled from the different source to create a new data sheet to provide a better view of what the data from the exteranl source means. In this specific project we used data from an excel worksheet with 369,712 different rows to get that data and use it to to county the amount of votes linked with the ballot ID's, and also which county that ballot was given, and for which candidate the vote was given too. Using python to extract the data from the excel sheet we used *with open()* to open the file then *csv.reader*  to read the file and then used *for* and *if* statemente to make up the code. In this project list and dictionaries were also used to orginize and manipulate the data. After that was all coded, we used the write functionality to write the output of the code into a text file. To write the file file into a text file I used *txt_file.write* to write that specific variable that had the specific output code that was needed. So in this project there are 3 neccessary files that are for the project, the **PyPoll_Challange**, the **election_analysis.txt**, and the **election_results** excel document.
+## Results
+
+##Summary
